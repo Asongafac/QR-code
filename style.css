@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  [Outfit](https://fonts.google.com/specimen/Outfit);
+}
+
+body{
+    background-color:  hsl(212, 45%, 89%);
+    padding: 100px 600px;
+    font-size: 15px;
+}
+
+.code{
+    background-color:  hsl(0, 0%, 100%);
+    /* border: 1px blue solid; */
+    justify-content: center;
+    align-items: center;
+    box-shadow:  hsl(218, 44%, 22%);
+    border-radius: 20px;
+
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.box{
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
